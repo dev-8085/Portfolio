@@ -1,2 +1,12 @@
 node_modules
 node_modules
+*.css
+*.js
+*.webp
+*.hdr
+*.wasm
+*.html
+*.txt
+*.cjs
+*.glb
+*.enc
